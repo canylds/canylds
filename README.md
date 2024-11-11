@@ -40,6 +40,7 @@
 
 ## :mailbox: How to reach me :
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:canyoldas5410@gmail.com)
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/canyoldas/)
 [<img src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/canylds)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://instagram.com/ylds.can)
 
