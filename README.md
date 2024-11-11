@@ -1,6 +1,6 @@
 # Hi, I'm Can Yoldaş <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" />
 
-<img align="right" height="290" src="https://raw.githubusercontent.com/canylds/canylds/main/can.gif" />
+<img align="right" height="200" src="https://raw.githubusercontent.com/canylds/canylds/main/can.gif" />
 
 - 💻 I'm a Computer Engineer
 - 🌱 I’m currently learning ASP.NET Core MVC
